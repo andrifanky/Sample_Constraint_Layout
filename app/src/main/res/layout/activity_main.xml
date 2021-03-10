@@ -21,7 +21,7 @@
     app:srcCompat="@drawable/login" />
 
     <EditText
-        android:id="@+id/tfEmail"
+        android:id="@+id/edEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
@@ -41,7 +41,7 @@
         android:importantForAutofill="no" />
 
     <EditText
-        android:id="@+id/tfPassword"
+        android:id="@+id/edPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
